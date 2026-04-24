@@ -23,7 +23,7 @@ fig = go.Figure(data=[go.Sankey(
   ))])
 
 fig.update_layout(
-    title_text="Job Application Process - Fall 2025<br><sub>Sept-Nov</sub>",
+    title_text="Job Application Process - Summer 2021<br><sub>May-Aug</sub>",
     font_size=12,
     height=550)
 fig.show()
